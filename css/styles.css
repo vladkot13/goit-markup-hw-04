@@ -369,8 +369,8 @@ margin-top: 8px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.employees-social-icon:hover,
-.employees-social-icon:focus {
+.social-link:hover,
+.social-link:focus {
   background-color: #404bbf;
 }
 
@@ -380,7 +380,7 @@ margin-top: 8px;
 
 .employees-social-icon:hover,
 .employees-social-icon:focus {
-  background-color: #404bbf
+  background-color: #404bbf;
 }
 
 .employee-container
