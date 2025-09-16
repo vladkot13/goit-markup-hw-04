@@ -148,7 +148,7 @@ a {
      color: #404bbf;
 }
 
-.navigation-list .header-menu .header-menu-item::after {
+.navigation-list .header-menu .header-special::after {
   content: "";
   border-radius: 2px;
   width: 100%;
